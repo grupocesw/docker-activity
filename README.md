@@ -1,7 +1,10 @@
 # Initial Instructions
 Install docker and docker-compose in your machine
 
-# Run command to rename .env
+# Clone docker activity
+git clone https://github.com/grupocesw/docker-activity.git
+
+# Run command to rename .env into project folder
 cp env.dist .env
 
 # Run command to up containers
