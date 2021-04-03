@@ -5,7 +5,7 @@ Install docker and docker-compose in your machine
 cp env.dist .env
 
 # Run command to up containers
-docker-compose up -d
+docker-compose up -d <br />
 docker container restart nginx
 
 # Add host /etc/hosts with sudo
