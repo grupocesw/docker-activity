@@ -15,4 +15,5 @@ docker container restart nginx
 docker exec -ti nginx bash -c "ping mysql"
 
 # Test app in browser
+http://localhost <br />
 http://index.local
